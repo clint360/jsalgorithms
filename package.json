@@ -1,0 +1,31 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "My javascript algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsalgorithms"
+  },
+  "keywords": [
+    "school",
+    "javascript",
+    "algorithms",
+    "logical",
+    "thinking",
+    "critical",
+    "thinking"
+  ],
+  "author": "Clint Animbom",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
